@@ -134,5 +134,19 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to fork the repo and submit a pull request.
 
+---
+
+### ✅ Next Step (Optional)
+
+If you tell me what your project actually is (portfolio? SaaS? dashboard? AI tool?), I can customize:
+
+- The project title  
+- Feature list  
+- Screenshots section  
+- Real deployment instructions  
+- Environment variables setup  
+
+Just drop 1 sentence about what the app does 👀
+
 ```
 
